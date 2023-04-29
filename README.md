@@ -1,2 +1,13 @@
-# summarizer-app
-This is a app which returns the summary of any link you provide to it ❤️‍🔥
+# Summary.com
+
+# Introduction
+
+An online News and article summarizer with the help of the OpenAI API.
+
+Get the summary of any news arcticle or other articles in 10 sec 🔥
+
+## Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,tailwind,react,github,vercel")
+</p>
